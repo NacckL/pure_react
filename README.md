@@ -24,3 +24,9 @@ This setup is useful for **learning React fundamentals** without extra tooling l
 2. Open index.html in your browser (no server required).
 3. You should see "Hello Pure React!" rendered on the page.
 
+Just in case you're using github codespaces, you can run the following command in the terminal:
+```
+python3 -m http.server 5500
+```
+
+---
