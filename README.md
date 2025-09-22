@@ -14,10 +14,12 @@ The project demonstrates how React works at its core:
 This setup is useful for **learning React fundamentals** without extra tooling like Create React App, Vite, or Webpack.
 
 ## 📂 Project Structure
+
 ├── index.html # Main entry point  
 ├── README.md # Project documentation
 
-▶️ How to Run
+## ▶️ How to Run
+
 1. Clone or download this repository.
 2. Open index.html in your browser (no server required).
 3. You should see "Hello Pure React!" rendered on the page.
